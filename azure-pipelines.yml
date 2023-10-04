@@ -24,5 +24,5 @@ steps:
   inputs:
     azureSubscription: 'Azure for Students(ecf1c3b0-33dd-424c-bb35-d613c41269d6)'
     appType: 'webAppLinux'
-    appName: 'myfirstazurewebapp'
+    appName: 'danwin-myfirstazurewebapp'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
